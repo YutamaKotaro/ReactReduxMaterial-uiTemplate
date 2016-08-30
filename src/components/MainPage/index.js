@@ -11,7 +11,6 @@ export default class MainPage extends Component {
     render() {
         return (
             <div>
-              fefe
                 <RaisedButton label="Secondary" secondary style={style} />
                 <RaisedButton
                   label="Secondary"
